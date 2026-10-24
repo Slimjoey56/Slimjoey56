@@ -1,10 +1,35 @@
-SKILLS SUMMARY
+﻿# Hi there, I'm Slimjoey56 👋
 
- am a versatile professional with a strong foundation in both technical and analytical domains. My expertise spans across programming languages such as Python, HTML, CSS, and JavaScript, complemented by hands-on experience with frameworks and libraries including React.js and Bootstrap. I am certified as an AWS Cloud Practitioner, equipping me with knowledge in cloud architecture and scalable solutions, and I bring growing experience as a Junior Data Scientist, applying data-driven insights to solve real-world problems.
-My proficiency with tools such as Microsoft Excel, Microsoft Office, and Google Workspace supports efficient data handling, reporting, and collaboration. I have developed solid data skills in entry, annotation, inventory management, and preprocessing, ensuring accuracy and reliability in workflows. On the technical side, I am skilled in frontend web development, fast and accurate typing, and professional presentation design, enabling me to deliver both functional and visually engaging solutions.
-Beyond technical expertise, I bring valuable soft skills including clear communication, effective team collaboration, customer service, and problem-solving. These strengths allow me to work seamlessly across diverse teams and projects, ensuring that technical outputs align with organizational goals. My combination of cloud certification, data science training, and practical experience positions me to contribute meaningfully to projects that require both technical execution and strategic insight.
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+[![Python](https://img.shields.io/badge/Python-Data%20Science%20%26%20ML-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Slimjoey56)
+[![CI/CD](https://img.shields.io/badge/DevOps-CI%2FCD%20Automation-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/Slimjoey56/autodeploy-lab)
 
-<!---
-Slimjoey56/Slimjoey56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Science graduate, **AWS Certified Cloud Practitioner**, and **Data Scientist** focused on cloud architecture, automated deployment pipelines, and predictive machine learning models.
+
+---
+
+### 🚀 What I Work With
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Cloud & Infrastructure** | AWS (EC2, VPC, S3, Lambda, CloudFront, API Gateway, KMS, ELB, IAM) |
+| **DevOps & Deployment** | GitHub Actions, Automated CI/CD, Vercel, Netlify, Linux/Bash |
+| **Data Science & ML** | Python, Regression Modeling, Pandas, NumPy, Scikit-Learn, Jupyter |
+| **Developer Workflow** | Git, JetBrains IDEs, Cursor, VS Code |
+
+---
+
+### 📌 Featured Engineering Work
+
+* 🛠️ **[autodeploy-lab](https://github.com/Slimjoey56/autodeploy-lab)** — Automated CI/CD deployment lab and pipeline integration workflow.
+* 📊 **Data Science & Predictive Analytics** — End-to-end data preprocessing, exploratory analysis, and regression modeling in Python.
+* ☁️ **AWS Cloud Architecture Labs** — Multi-tier VPC networking, serverless API Gateways with Lambda, and secure S3/CloudFront content delivery.
+
+---
+
+### 📈 GitHub Activity & Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Slimjoey56&show_icons=true&theme=tokyonight&hide_border=true" alt="Slimjoey56's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slimjoey56&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
