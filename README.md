@@ -1,10 +1,12 @@
-﻿# Hi there, I'm Slimjoey56 👋
+# Hi there, I'm Slimjoey56 👋
 
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+[![IT Support Specialist](https://img.shields.io/badge/IT-Support%20Specialist-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/Slimjoey56)
 [![Python](https://img.shields.io/badge/Python-Data%20Science%20%26%20ML-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Slimjoey56)
 [![CI/CD](https://img.shields.io/badge/DevOps-CI%2FCD%20Automation-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/Slimjoey56/autodeploy-lab)
 
-I'm a Computer Science graduate, **AWS Certified Cloud Practitioner**, and **Data Scientist** focused on cloud architecture, automated deployment pipelines, and predictive machine learning models.
+I'm a Computer Science graduate, **AWS Certified Solutions Architect & Cloud Practitioner**, **IT Support Specialist**, and **Data Scientist** focused on robust cloud architecture, automated deployment pipelines, and predictive machine learning models.
 
 ---
 
@@ -12,7 +14,8 @@ I'm a Computer Science graduate, **AWS Certified Cloud Practitioner**, and **Dat
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Cloud & Infrastructure** | AWS (EC2, VPC, S3, Lambda, CloudFront, API Gateway, KMS, ELB, IAM) |
+| **Cloud & Infrastructure** | AWS (EC2, VPC, S3, Lambda, CloudFront, API Gateway, KMS, ELB, IAM, RDS) |
+| **IT Support & Systems** | Troubleshooting, Hardware/Software Diagnostics, System Administration, Technical Support |
 | **DevOps & Deployment** | GitHub Actions, Automated CI/CD, Vercel, Netlify, Linux/Bash |
 | **Data Science & ML** | Python, Regression Modeling, Pandas, NumPy, Scikit-Learn, Jupyter |
 | **Developer Workflow** | Git, JetBrains IDEs, Cursor, VS Code |
@@ -21,9 +24,9 @@ I'm a Computer Science graduate, **AWS Certified Cloud Practitioner**, and **Dat
 
 ### 📌 Featured Engineering Work
 
-* 🛠️ **[autodeploy-lab](https://github.com/Slimjoey56/autodeploy-lab)** — Automated CI/CD deployment lab and pipeline integration workflow.
-* 📊 **Data Science & Predictive Analytics** — End-to-end data preprocessing, exploratory analysis, and regression modeling in Python.
-* ☁️ **AWS Cloud Architecture Labs** — Multi-tier VPC networking, serverless API Gateways with Lambda, and secure S3/CloudFront content delivery.
+- 🛠️ **[autodeploy-lab](https://github.com/Slimjoey56/autodeploy-lab)** — Automated CI/CD deployment lab and pipeline integration workflow.
+- 📊 **Data Science & Predictive Analytics** — End-to-end data preprocessing, exploratory analysis, and regression modeling in Python.
+- ☁️ **AWS Cloud Architecture Labs** — Multi-tier VPC networking, serverless API Gateways with Lambda, and secure S3/CloudFront content delivery.
 
 ---
 
