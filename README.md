@@ -1,4 +1,4 @@
-# Hi there, I'm Slimjoey56 👋
+# Hi there, Jehosaphat 👋
 
 [![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
