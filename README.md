@@ -1,38 +1,55 @@
-# Hi there, Jehosaphat 👋
+# Jehosaphat Brobbey Impiani
 
-[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-[![IT Support Specialist](https://img.shields.io/badge/IT-Support%20Specialist-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/Slimjoey56)
-[![Python](https://img.shields.io/badge/Python-Data%20Science%20%26%20ML-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Slimjoey56)
-[![CI/CD](https://img.shields.io/badge/DevOps-CI%2FCD%20Automation-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/Slimjoey56/autodeploy-lab)
+**Computer Science Graduate | AWS Certified Solutions Architect – Associate | Aspiring Data Scientist and Machine Learning Engineer**
 
-I'm a Computer Science graduate, **AWS Certified Solutions Architect & Cloud Practitioner**, **IT Support Specialist**, and **Data Scientist** focused on robust cloud architecture, automated deployment pipelines, and predictive machine learning models.
+I am a Computer Science graduate interested in building practical solutions across data science, machine learning, cloud infrastructure, and software development. My portfolio brings together Python-based analysis, predictive modelling, web data collection, geospatial exploration, and AWS infrastructure automation.
+
+I value clear problem formulation, reproducible workflows, readable code, and documentation that explains both the implementation and its limitations.
+
+## Focus Areas
+
+- **Data science:** data cleaning, exploratory data analysis, feature engineering, and visualisation.
+- **Machine learning:** supervised classification, model comparison, and evaluation with scikit-learn.
+- **Cloud and infrastructure:** AWS networking, compute, identity and access management, and Terraform.
+- **Programming:** Python, SQL, JavaScript, and practical software development.
+- **Data acquisition:** REST APIs, HTML parsing, and structured data extraction.
+
+## Selected Projects
+
+| Project | What it demonstrates |
+|---|---|
+| [SpaceX Machine Learning Prediction](https://github.com/Slimjoey56/SpaceX-Machine-Learning-Prediction-Part-5-v1) | Classification workflow and model comparison |
+| [Australian Weather Rain Prediction](https://github.com/Slimjoey56/australian-weather-rain-prediction) | Weather-related binary classification |
+| [Call of Duty Player Analytics](https://github.com/Slimjoey56/Call-of-Duty-Player-Performance-Analytics-Dashboard-Python-Pandas-Matplotlib) | KPI engineering and performance visualisation |
+| [SpaceX Launch Data EDA](https://github.com/Slimjoey56/spacex_launch_data_eda) | Exploratory analysis of launch records |
+| [Books to Scrape](https://github.com/Slimjoey56/Completed-Codveda-Task-1---Web-Scraping) | Web scraping and structured data export |
+| [AWS Transit Gateway with Terraform](https://github.com/Slimjoey56/aws-terraform-transit-gateway-vpc) | Multi-VPC networking as infrastructure code |
+
+## Technical Toolkit
+
+- **Languages:** Python, SQL, JavaScript, HTML, CSS
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter
+- **Machine learning:** scikit-learn
+- **Cloud:** AWS
+- **Infrastructure as code:** Terraform
+- **Tools:** Git, GitHub, VS Code, Google Colab
+
+## Certifications
+
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+- IBM Data Science Professional Certificate
+- Google AI Certificate
+- Complete Python Developer Course (Udemy)
+
+## Explore
+
+Browse the repositories below for notebooks, code, infrastructure configuration, and project documentation.
+
+- GitHub: [github.com/Slimjoey56](https://github.com/Slimjoey56)
+- LinkedIn: [Jehosaphat Brobbey Impiani](https://www.linkedin.com/in/jehosaphat-brobbey-impiani-9797b8252/)
+- Email: ijehosaphat@gmail.com
 
 ---
 
-### 🚀 What I Work With
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Cloud & Infrastructure** | AWS (EC2, VPC, S3, Lambda, CloudFront, API Gateway, KMS, ELB, IAM, RDS) |
-| **IT Support & Systems** | Troubleshooting, Hardware/Software Diagnostics, System Administration, Technical Support |
-| **DevOps & Deployment** | GitHub Actions, Automated CI/CD, Vercel, Netlify, Linux/Bash |
-| **Data Science & ML** | Python, Regression Modeling, Pandas, NumPy, Scikit-Learn, Jupyter |
-| **Developer Workflow** | Git, JetBrains IDEs, Cursor, VS Code |
-
----
-
-### 📌 Featured Engineering Work
-
-- 🛠️ **[autodeploy-lab](https://github.com/Slimjoey56/autodeploy-lab)** — Automated CI/CD deployment lab and pipeline integration workflow.
-- 📊 **Data Science & Predictive Analytics** — End-to-end data preprocessing, exploratory analysis, and regression modeling in Python.
-- ☁️ **AWS Cloud Architecture Labs** — Multi-tier VPC networking, serverless API Gateways with Lambda, and secure S3/CloudFront content delivery.
-
----
-
-### 📈 GitHub Activity & Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Slimjoey56&show_icons=true&theme=tokyonight&hide_border=true" alt="Slimjoey56's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slimjoey56&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
+*This profile describes learning projects and practical work in progress. Individual repositories contain the specific scope, tools, and implementation details for each project.*
